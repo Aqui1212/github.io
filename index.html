@@ -91,18 +91,7 @@ table {
 </head>
 <body>
 <header>
-<?php 
-$logfile = "./counter.log";
-$counter = 0;
-if( $fn = @fopen($logfile, 'r') ) {
- $counter = trim(fgets($fn));
- fclose($fn);
-}
-print( ++$counter . "人目のお客様です<br>");
- if( $fn = @fopen($logfile, 'w') ) {
- fwrite( $fn, $counter);
- fclose($fn);
-}?>
+
  <form class="navbar-form" role="search">
         <div class="input-group">
 <div style="text-align: center;"><img src="images/mega.jpg" width="600" height="400" alt="">
