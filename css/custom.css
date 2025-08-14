@@ -1,0 +1,5 @@
+.jumbotron	{
+	background: url('http://lorempixel.com/768/768/cats/') no-repeat 50% 50%;
+	background-size: cover;
+	color: white;
+}
