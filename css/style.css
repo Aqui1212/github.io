@@ -97,7 +97,7 @@ aside li a:hover {
 .section-group {
     order: 1;
     max-width: 780px;
-    /* calc関数で計算をすることができる */
+      height: 100px;    /* calc関数で計算をすることができる */
     width: calc(100% - 200px);
 }
 
@@ -118,6 +118,7 @@ aside li a:hover {
     margin-top: 20px;
 
 }
+
 
 
 
