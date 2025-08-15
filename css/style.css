@@ -61,15 +61,6 @@ nav li {
    
 }
 
-.hero {
-    font-size: 2rem;
-    background-image: url(../images/titleimage01.jpg);
-    background-size: cover;
-    height: 200px;
-    padding-top: 120px;
-    padding-left: 30px;
-    margin-top: 20px;
-}
 
 footer {
     text-align: center;
@@ -127,6 +118,7 @@ aside li a:hover {
     margin-top: 20px;
 
 }
+
 
 
 
