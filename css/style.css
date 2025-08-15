@@ -119,7 +119,9 @@ aside li a:hover {
 
 }
 
-
+html,body {
+  overflow: hidden;
+}
 
 
 
