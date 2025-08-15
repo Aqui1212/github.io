@@ -17,8 +17,8 @@ a {
 
 /* 汎用クラス */
 .center-container {
-    min-width: 500px;
-    max-width: 580px;
+    min-width: 700px;
+    max-width: 980px;
     margin: 0 auto;
 }
 
@@ -31,6 +31,11 @@ a {
 header, footer {
     background-color: #160101;
     color: #fff;
+}
+keader {
+  width: 100px;
+  height: 100px;
+  background: orange;
 }
 
 header {
@@ -122,6 +127,7 @@ aside li a:hover {
     margin-top: 20px;
 
 }
+
 
 
 
