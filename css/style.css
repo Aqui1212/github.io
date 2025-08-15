@@ -17,8 +17,8 @@ a {
 
 /* 汎用クラス */
 .center-container {
-    min-width: 700px;
-    max-width: 700px;
+    min-width: 500px;
+    max-width: 500px;
     margin: 0 auto;
 }
 
@@ -122,3 +122,4 @@ aside li a:hover {
     margin-top: 20px;
 
 }
+
